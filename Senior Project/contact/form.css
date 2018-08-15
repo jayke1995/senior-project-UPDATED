@@ -1,0 +1,30 @@
+
+#form_container
+{
+	background-color: white;
+	opacity: .9;
+	
+	padding:15px 15px;
+	margin-top:15px;
+	border-radius:15px;
+}
+a
+{background:transparent;
+color: black;
+text-decoration: none;}
+
+body
+{
+	background: url("airjordan.jpg") ;
+	background-size: 100%;
+}
+#form_container input[type='text'],
+#form_container input[type='email'],
+#form_container textarea
+{
+	background: white;	
+}
+
+
+
+
